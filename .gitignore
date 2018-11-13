@@ -1,0 +1,8 @@
+build/
+devel/
+install/
+logs/
+src/venv/
+src/.idea/
+src/DE3-ROB1-CHESS/
+
